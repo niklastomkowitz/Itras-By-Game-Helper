@@ -1,0 +1,22 @@
+{
+  "name": "cardsofitrasby",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niklastomkowitz/ItrasByGameHelper.git"
+  },
+  "author": "Niklas Tomkowitz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niklastomkowitz/ItrasByGameHelper/issues"
+  },
+  "homepage": "https://github.com/niklastomkowitz/ItrasByGameHelper#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}

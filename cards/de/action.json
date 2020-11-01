@@ -1,0 +1,27 @@
+{
+    "actionTitle": [
+        "Ja, und...",
+        "Ja, aber...",
+        "Ja, aber...",
+        "Ja, aber...",
+        "Ja, aber...",
+        "Nein, aber...",
+        "Nein, aber...",
+        "Nein, und...",
+        "Du brauchst Hilfe",
+        "Der Konflikt eskaliert"
+    ],
+    
+    "actionText": [
+        "Dir gelingt das, was du tun wolltest, und du erreichst sogar noch mehr, als du erwartet hattest. Vielleicht (aber das muss nicht sein) ist es sogar etwas zu viel.",
+        "Dir gelingt das, was du tun wolltest. Aber etwas anderes, das damit nicht direkt etwas zu tun hat, geht schief: entweder für dich oder für jemanden der dir etwas bedeutet.",
+        "Dir gelangt das, was du tun wolltest, aber nicht vollständig. Ein kleines Detail klappt nicht nach Plan.",
+        "Dir gelingt das, was du tun wolltest, aber es hat ganz unerwartete Konsequenzen.",
+        "Das, was du vorhast kann gelingen, aber nur, wenn du ein Opfer dafür bringst.",
+        "Das, was du tun wolltest, schlägt fehl. Aber etwas anderes, das damit nichts zu tun hatte, bringt dir einen Vorteil.",
+        "Das, was du vorhast, gelingt nicht, aber die Konsequenzen sind nicht katastrophal.",
+        "Das was du tun wolltest, schlägt fehl, und es geht zusätzlich noch etwas anderes schief.",
+        "Du erkennst, dass du jemandes Hilfe brauchst, um bei dem was du tun willst, Erfolg zu haben.",
+        "Auf irgendeine Weise verschärft sich der Konflikt, wird das Problem komplizierter oder der Einsatz erhöht."
+    ]
+}
